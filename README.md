@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Exploratory Data Analysis - Microsoft, Google, Apple and Amazon Actions (2013-2018)
 This is a README to accompany your Exploratory Data Analysis (EDA) project of the shares of Microsoft, Google, Apple and Amazon, using a dataset available in Kaggle and the Pandas library.
 
